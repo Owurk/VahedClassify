@@ -12,12 +12,5 @@ node_modules/
 dist/
 build/
 
-# data files (keep them local, don't upload to github)
-*.json
-*.txt
-*.db
-!package.json
-!package-lock.json
-
 # environment variables
 .env
